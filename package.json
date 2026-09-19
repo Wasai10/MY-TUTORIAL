@@ -1,0 +1,20 @@
+{
+  "name": "my-tutorial",
+  "version": "1.0.0",
+  "description": "a tutorial for backend",
+  "homepage": "https://github.com/Wasai10/MY-TUTORIAL#readme",
+  "bugs": {
+    "url": "https://github.com/Wasai10/MY-TUTORIAL/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wasai10/MY-TUTORIAL.git"
+  },
+  "license": "ISC",
+  "author": "Wasai Church",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
