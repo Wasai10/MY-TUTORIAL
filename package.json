@@ -12,10 +12,12 @@
   },
   "license": "ISC",
   "author": "Wasai Church",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
-  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
