@@ -1,3 +1,8 @@
+import dns from "dns";
+
+dns.setServers(["8.8.8.8"]);
+
+
 import dotenv from "dotenv";
 import app from "./app.js";
 import connectDB from "./config/database.js";
